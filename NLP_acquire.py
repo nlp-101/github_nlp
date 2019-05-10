@@ -8,8 +8,14 @@ Created on Thu May  9 10:38:21 2019
 
 import os
 import json
-from typing import Dict, List
+import itertools as it
+from typing import List, Dict
+
 import requests
+from requests import get
+from bs4 import BeautifulSoup
+import pandas as pd
+from urllib.request import urlopen
 
 # TODO: make a github personal access token
 # TODO: replace YOUR_GITHUB_USERNAME with your github username
@@ -174,9 +180,12 @@ repos = [
     'Kickball/awesome-selfhosted'
 ]
 
+
 def scrape_github_data():
     data = [process_repo(repo) for repo in repos]
     json.dump(data, open('data.json', 'w'))
+    
+    return data
     
 if __name__ == '__main__':
     scrape_github_data()
