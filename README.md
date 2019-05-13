@@ -27,3 +27,8 @@ Our visuals and ML models can be found on NLP_Projects.ipynb
 [logo]: https://github.com/nlp-101/github_nlp/blob/master/images/Screen%20Shot%202019-05-13%20at%2011.58.39%20AM.png "Full Corpus Word Web"
 
 **Full Corpus Word Web:** We used the top 20 words in each language to build a word network. Each programming language contains certain unique words and words that are common in multiple languages. The Network shows the programming language as a unique node and the edges show the word relationship between the languages. From here we can answer the questions above.
+
+
+![alt text][logo1]
+
+[logo1]: https://media.giphy.com/media/TFNLyTG6CS8OwMCods/giphy.gif "Word Clouds"
