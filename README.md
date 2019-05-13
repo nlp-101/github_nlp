@@ -6,7 +6,7 @@ May 13, 2019
 > Cody Watson -- Codeup Student  
 > Eric Escalante -- Codeup Student  
 
-                                                      ![alt text][logo1]
+![alt text][logo1]
 
 [logo1]: https://media.giphy.com/media/TFNLyTG6CS8OwMCods/giphy.gif "Word Clouds"
 
