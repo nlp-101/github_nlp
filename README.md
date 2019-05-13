@@ -6,11 +6,13 @@ May 13, 2019
 > Cody Watson -- Codeup Student  
 > Eric Escalante -- Codeup Student  
 
+For this project, we will be scraping data from GitHub repository README files. The goal is to build a model that can predict which programming language a repository is using, given the text of the README file.  
+
+
 ![alt text][logo1]
 
 [logo1]: https://media.giphy.com/media/TFNLyTG6CS8OwMCods/giphy.gif "Word Clouds"
 
-For this project, we will be scraping data from GitHub repository README files. The goal is to build a model that can predict which programming language a repository is using, given the text of the README file.
 
 Rejects non-ascii README files(i.e. foriegn languages)
 
