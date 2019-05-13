@@ -6,4 +6,12 @@ For this project, we will be scraping data from GitHub repository README files. 
 
 Rejects non-ascii README files(i.e. foriegn languages)
 
-Links:
+Classification Models Used:
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- KNN
+
+Link to our Google Doc slides:
+
+Our visuals and ML models can be found on NLP_Projects
