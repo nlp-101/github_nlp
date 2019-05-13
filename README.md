@@ -13,7 +13,7 @@ Rejects non-ascii README files(i.e. foriegn languages)
 
 Classification Models Used:
 - Logistic Regression
-- Decision Tree
+- Decision Tree (Best Train Model)
 - Random Forest
 - KNN
 
