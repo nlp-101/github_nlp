@@ -14,4 +14,4 @@ Classification Models Used:
 
 Link to our Google Doc slides:
 
-Our visuals and ML models can be found on NLP_Projects
+Our visuals and ML models can be found on NLP_Projects.ipynb
